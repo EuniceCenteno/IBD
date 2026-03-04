@@ -1,0 +1,13 @@
+ID	animal	TreatmentGroup	IdentityNumber	DosingRoute	day	name	dayCat
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical
+F1DAY7	F1	DSS+LbcLapLin	F1-DAY7	Ad-libitum	7	F1DAY7	7
+F10DAY7	F10	DSS+H2O	F10-DAY7	Ad-libitum	7	F10DAY7	7
+F12DAY7	F12	DSS+LbcVec	F12-DAY7	Ad-libitum	7	F12DAY7	7
+F13DAY7	F13	DSS+LbcVec	F13-DAY7	Ad-libitum	7	F13DAY7	7
+F15DAY7	F15	DSS+LbcVec	F15-DAY7	Ad-libitum	7	F15DAY7	7
+F2DAY7	F2	DSS+LbcLapLin	F2-DAY7	Ad-libitum	7	F2DAY7	7
+F3DAY7	F3	DSS+LbcLapLin	F3-DAY7	Ad-libitum	7	F3DAY7	7
+F4DAY7	F4	DSS+LbcLapLin	F4-DAY7	Ad-libitum	7	F4DAY7	7
+F5DAY7	F5	DSS+LbcLapLin	F5-DAY7	Ad-libitum	7	F5DAY7	7
+F6DAY7	F6	DSS+H2O	F6-DAY7	Ad-libitum	7	F6DAY7	7
+F8DAY7	F8	DSS+H2O	F8-DAY7	Ad-libitum	7	F8DAY7	7
